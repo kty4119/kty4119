@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm TaeYoung 👋
 
 <!--
 **kty4119/kty4119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kty4119)](https://github.com/kty4119/github-readme-stats)
