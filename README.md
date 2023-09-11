@@ -21,7 +21,7 @@
 # Awards
 Here are some of the projects I'm proud of:
 
-- 🏆 광운대학교 AI 해커톤 - Multi Label Classification (은상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
+- 🏆 광운대학교 AI 해커톤 - Multi Label Classification (은상)[[github](https://github.com/kty4119/Multi-Label-Classification)]
 - 🏆 AI connect Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/kty4119/Fake_or_Real)]
 - 🏆 참빛설계학기 : 포토리뷰 적립금 자동화 (장려상).[[github]](https://github.com/taemin-steve/Fake_or_Real)]
 
