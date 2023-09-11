@@ -1,17 +1,81 @@
-### Hi I'm TaeYoung 👋
+# Hi there, I'm Taeyoung 👋
 
 <!--
-**kty4119/kty4119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I'm interestes
+- NLP
+- Computer Vison 
+- Multimodal Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✔️ Check more About me 
+- [Blog]([https://velog.io/@taemin-steve/series](https://injeolmi-bubbletea.tistory.com/))
+- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
+- [Email](kty4119@naver.com)
 -->
-[![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kty4119)](https://github.com/kty4119/github-readme-stats)
+
+|<h3>😄Interestes</h3>|<h3>✔️AboutMe</h3>|
+|------|---|
+|<ul><li>Computer Vision</li><li>Image Processing</li><li>Multimodal Learning</li></ul>|<ul style="text-align: left;"><li><a href="https://injeolmi-bubbletea.tistory.com/">Blog 🔥</a></li><li><a href="https://ehmin.notion.site/2af09938f6824f06b2dbef995a1fab36?pvs=4">CV</a></li><li><a href="mailto:kty4119@naver.com">Email</a></li></ul>|
+
+
+
+# Awards
+Here are some of the projects I'm proud of:
+
+- 🏆 광운대학교 AI 해커톤 - Multi Label Classification (은상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
+- 🏆 AI connect Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/taemin-steve/Fake_or_Real)]
+
+
+<!--## Contact Me-->
+<!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
+
+<!---## Stats-->
+
+<!--<table id="stats"><tr><td valign="top" width="55%">-->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
+<!-- <td valign="top" width="45%">-->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
+<!--</table>  -->
+
+<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
+
+<!---## Top Languages-->
+<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
+
+# Tech Stack
+💪Strong<br>
+<span>
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+<img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+</span>
+
+📚 Knowledgeable<br>
+<span>
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</span>
+
+🛠 Tools<br>
+<span>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white"/>
+</span>
+<!--- 💻 Programming Languages: [List of Programming Languages]-->
+<!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
+<!--- 📚 Currently learning: [What you're currently learning]-->
+
+
+
+# Contributions
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kty4119&theme=vue)
+<!--## Visitors-->
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=kty4119)-->
+
+Thanks for visiting my GitHub profile! Feel free to explore my projects and get in touch.
