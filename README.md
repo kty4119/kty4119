@@ -8,13 +8,13 @@
 
 ✔️ Check more About me 
 - [Blog]([https://velog.io/@taemin-steve/series](https://injeolmi-bubbletea.tistory.com/))
-- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
+- [CV](https://github.com/kty4119/CV/blob/main/%EA%B9%80%ED%83%9C%EC%98%81_CV.pdf](https://github.com/kty4119/CV/blob/main/%EA%B9%80%ED%83%9C%EC%98%81_CV.pdf))
 - [Email](kty4119@naver.com)
 -->
 
 |<h3>😄Interestes</h3>|<h3>✔️AboutMe</h3>|
 |------|---|
-|<ul><li>Computer Vision</li><li>Image Processing</li><li>Multimodal Learning</li></ul>|<ul style="text-align: left;"><li><a href="https://injeolmi-bubbletea.tistory.com/">Blog 🔥</a></li><li><a href="https://ehmin.notion.site/2af09938f6824f06b2dbef995a1fab36?pvs=4">CV 📥</a></li><li><a href="mailto:kty4119@naver.com">Email</a></li></ul>|
+|<ul><li>Computer Vision</li><li>Image Processing</li><li>Multimodal Learning</li></ul>|<ul style="text-align: left;"><li><a href="https://injeolmi-bubbletea.tistory.com/">Blog 🔥</a></li><li><a href="https://github.com/kty4119/CV/blob/main/%EA%B9%80%ED%83%9C%EC%98%81_CV.pdf">CV 📥</a></li><li><a href="mailto:kty4119@naver.com">Email 📫</a></li></ul>|
 
 
 
