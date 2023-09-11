@@ -41,30 +41,34 @@ Here are some of the projects I'm proud of:
 <!---## Top Languages-->
 <!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
-# Tech Stack
-💪Strong<br>
+# Skills
+💻Programming Language<br>
 <span>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
-<img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
-<img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-276DC3?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+<img src="https://img.shields.io/badge/C-276DC3?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </span>
 
-📚 Knowledgeable<br>
+📚 Stacks<br>
 <span>
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+<img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat-square&logo=Matplotlib&logoColor=black">
 </span>
 
 🛠 Tools<br>
 <span>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white"/>
 </span>
 <!--- 💻 Programming Languages: [List of Programming Languages]-->
