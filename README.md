@@ -22,7 +22,7 @@
 Here are some of the projects I'm proud of:
 
 - 🏆 광운대학교 AI 해커톤 - Multi Label Classification (은상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
-- 🏆 AI connect Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/taemin-steve/Fake_or_Real)]
+- 🏆 AI connect Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/kty4119/Fake_or_Real)]
 - 🏆 참빛설계학기 : 포토리뷰 적립금 자동화 (장려상).[[github]](https://github.com/taemin-steve/Fake_or_Real)]
 
 <!--## Contact Me-->
@@ -31,15 +31,15 @@ Here are some of the projects I'm proud of:
 <!---## Stats-->
 
 <!--<table id="stats"><tr><td valign="top" width="55%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kty4119&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
 <!-- <td valign="top" width="45%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kty4119&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
 <!--</table>  -->
 
-<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
+<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kty4119&show_icons=true&theme=vue)-->
 
 <!---## Top Languages-->
-<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
+<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kty4119&layout=compact&theme=vue)-->
 
 # Skills
 💻Programming Language<br>
