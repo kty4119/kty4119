@@ -23,7 +23,7 @@ Here are some of the projects I'm proud of:
 
 - 🏆 광운대학교 AI 해커톤 - Multi Label Classification (은상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
 - 🏆 AI connect Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/taemin-steve/Fake_or_Real)]
-
+- 🏆 참빛설계학기 : 포토리뷰 적립금 자동화 (장려상).[[github]](https://github.com/taemin-steve/Fake_or_Real)]
 
 <!--## Contact Me-->
 <!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
